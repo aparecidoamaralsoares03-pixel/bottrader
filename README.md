@@ -1,1 +1,7 @@
-print("Robô iniciado com sucesso!")
+import time
+
+print("Robô de trading iniciado...")
+
+while True:
+    print("Monitorando mercado...")
+    time.sleep(5)
